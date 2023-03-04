@@ -1,4 +1,6 @@
 # Privacy Policy for Photography Webclass Website
+### Dated: 3/4/2023
+
 This privacy policy describes how we handle your personal information when you use our Photography Webclass Website. By using this website, you agree to the terms of this privacy policy.
 
 ### Information We Collect
