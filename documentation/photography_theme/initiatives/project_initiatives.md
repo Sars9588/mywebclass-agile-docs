@@ -24,6 +24,10 @@ An interactive gallery page is an effective way for learners to explore differen
 1. Time Constraints: Adding a gallery page is time-consuming and may impact other project timelines.
 2. Technical Constraints: Adding a gallery page may require technical expertise and resources such as server space or bandwidth.
 
+### Assumptions
+1. While browsing through the various pictures, users can view the settings we have used to take such pictures to replicate similar situations
+2. Viewing the pictures will give all the users ideas of how to capture moments and allow them to take better pictures
+
 ---------------------------------------------------
 
 ## Initiative 2: Provide Personalized Feedback
@@ -51,5 +55,9 @@ Providing personalized feedback is crucial for beginners to improve their photog
 ### Constraints
 1. Time Constraints: Adding a feedback communication page is time-consuming and may affect project timelines.
 2. Resource Constraints: Adding a feedback communication page may require additional resources such as customer service representatives and may be limited by technical constraints such as server space or bandwidth.
+
+### Assumptions
+1. Through a communication platform users will be able to ask questions, and get good and useful responses
+2. Users will be able to communicate with professionals to get their inputs on users questions, allowing them to learn more
 
 ---------------------------------------------------
