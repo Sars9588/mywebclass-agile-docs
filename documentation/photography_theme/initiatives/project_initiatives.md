@@ -11,6 +11,11 @@ An interactive gallery page is an effective way for learners to explore differen
 2. **Interactive Features:** Test the success of the interactive features by allowing learners to adjust the camera settings and see how they affect the final image. Monitor learner feedback to identify areas for improvement.
 3. **Overall Functionality:** Test the overall functionality of the gallery page by ensuring that it loads quickly and is easy to navigate. Monitor learner feedback to identify areas for improvement.
 
+### Risks
+1. Technical Issues: Risks associated with poor internet connectivity, server crashes, or software malfunction.
+2. Limited Pictures: Risks associated with inadequate marketing or offering of pictures to display to users
+3. Technical Requirements: Risks associated with the potential limitation of audience due to lack of necessary equipment or technical know-how.
+
 ---------------------------------------------------
 
 ## Initiative 2: Provide Personalized Feedback
@@ -25,5 +30,10 @@ Providing personalized feedback is crucial for beginners to improve their photog
 1. **Feedback Process:** Test the success of the feedback system by submitting a range of work samples and monitoring the feedback process. Ensure that feedback is provided in a timely manner and offers constructive criticism and helpful tips.
 2. **Quality of Feedback:** Test the quality of the feedback provided by instructors by monitoring learner feedback and ensuring that instructors are identifying areas for improvement and offering helpful tips and guidance.
 3. **Overall Functionality:** Test the overall functionality of the feedback system by ensuring that it is easy to use and navigate. Monitor learner feedback to identify areas for improvement.
+
+### Risks
+1. Technical Issues: Risks associated with poor internet connectivity, server crashes, or software malfunction.
+2. Limited Pictures: Risks associated with inadequate marketing or offering of pictures to display to users
+3. Technical Requirements: Risks associated with the potential limitation of audience due to lack of necessary equipment or technical know-how.
 
 ---------------------------------------------------
