@@ -20,6 +20,10 @@ An interactive gallery page is an effective way for learners to explore differen
 1. Integration of Gallery page - 3 weeks
 2. Integration of feedback communication page - 3 weeks
 
+### Constraints
+1. Time Constraints: Adding a gallery page is time-consuming and may impact other project timelines.
+2. Technical Constraints: Adding a gallery page may require technical expertise and resources such as server space or bandwidth.
+
 ---------------------------------------------------
 
 ## Initiative 2: Provide Personalized Feedback
@@ -43,5 +47,9 @@ Providing personalized feedback is crucial for beginners to improve their photog
 ### Milestone Target
 1. Integration of Gallery page - 3 weeks
 2. Integration of feedback communication page - 3 weeks
+
+### Constraints
+1. Time Constraints: Adding a feedback communication page is time-consuming and may affect project timelines.
+2. Resource Constraints: Adding a feedback communication page may require additional resources such as customer service representatives and may be limited by technical constraints such as server space or bandwidth.
 
 ---------------------------------------------------
