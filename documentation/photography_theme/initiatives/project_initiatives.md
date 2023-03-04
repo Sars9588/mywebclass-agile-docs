@@ -16,6 +16,10 @@ An interactive gallery page is an effective way for learners to explore differen
 2. Limited Pictures: Risks associated with inadequate marketing or offering of pictures to display to users
 3. Technical Requirements: Risks associated with the potential limitation of audience due to lack of necessary equipment or technical know-how.
 
+### Milestone Target
+1. Integration of Gallery page - 3 weeks
+2. Integration of feedback communication page - 3 weeks
+
 ---------------------------------------------------
 
 ## Initiative 2: Provide Personalized Feedback
@@ -35,5 +39,9 @@ Providing personalized feedback is crucial for beginners to improve their photog
 1. Technical Issues: Risks associated with poor internet connectivity, server crashes, or software malfunction.
 2. Limited Pictures: Risks associated with inadequate marketing or offering of pictures to display to users
 3. Technical Requirements: Risks associated with the potential limitation of audience due to lack of necessary equipment or technical know-how.
+
+### Milestone Target
+1. Integration of Gallery page - 3 weeks
+2. Integration of feedback communication page - 3 weeks
 
 ---------------------------------------------------
